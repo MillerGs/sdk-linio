@@ -1,0 +1,4 @@
+
+curl.cainfo="C:/wamp/ca-bundle.crt"
+openssl.cafile="C:/wamp/ca-bundle.crt"
+
